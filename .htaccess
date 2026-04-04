@@ -1,3 +1,6 @@
+# Forcer le type MIME correct pour le sitemap
+AddType application/xml .xml
+
 RewriteEngine On
 
 # Rediriger /meilleur-disque-menstruel-comparatif vers / (page d'accueil)
